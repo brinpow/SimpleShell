@@ -1,0 +1,15 @@
+Makefile
+a.txt
+b.txt
+bin
+include
+input_parse
+obj
+src
+Makefile
+a.txt
+bin
+include
+input_parse
+obj
+src

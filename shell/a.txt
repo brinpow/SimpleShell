@@ -1,0 +1,7 @@
+Makefile
+a.txt
+bin
+include
+input_parse
+obj
+src
